@@ -1,0 +1,23 @@
+{
+  "name": "node-require-exports-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimomo14/NODE-REQUIRE-EXPORTS-EXERCISE.git"
+  },
+  "author": "Momo Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minimomo14/NODE-REQUIRE-EXPORTS-EXERCISE/issues"
+  },
+  "homepage": "https://github.com/minimomo14/NODE-REQUIRE-EXPORTS-EXERCISE#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "lodash": "^4.17.21"
+  }
+}
