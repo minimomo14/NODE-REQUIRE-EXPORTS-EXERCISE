@@ -1,10 +1,11 @@
-const sumArray = Array(1,2,3,4,5,6,7,8,9);
 
-for (let i=0; i < sumArray.length; i++) {
-    sumArray[i];
+
+const sumArray = (numArray) => {
+    let sum = 0;
+    for (let i =0; i < numArray.length; i++){
+        sum += numArray[i];
+    } return sum;
 }
-console.log(sumArray);
-
 module.exports ={
     sumArray:sumArray
 }
